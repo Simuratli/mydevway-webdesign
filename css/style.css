@@ -1,0 +1,44 @@
+.navbar ul li {
+font-family: 'Quicksand', sans-serif !important;
+}
+.navbar ul li:hover {
+transform: scale(1.01) !important;
+text-shadow: 0 0 2px solid black;
+transition: 500ms !important;
+}
+
+.sign {
+	text-decoration: none !important;
+	color: white !important; 
+	margin-left: 25px;
+}
+.email
+{
+	max-width: 210px !important;
+	max-height: 25px !important;
+	border-radius: 20px !important;
+	text-align:center !important;
+	float: left;
+}
+}
+.email:hover
+{
+	transition: .500ms !important;
+	transform: scale(1.1) !important;
+}
+
+.a-btn {
+	margin-top: -14px !important;
+	max-width: 10px !important;
+}
+.a-btn:hover {
+	transition: .5000ms !important;
+	transform: scale(1.1) !important;
+
+
+}
+
+body {
+	font-family: 'Quicksand', sans-serif !important;
+}
+
